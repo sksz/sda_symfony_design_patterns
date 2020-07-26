@@ -1,2 +1,1 @@
-# sda_symfony_design_patterns
-SDA Symfony project for Design Patterns
+# SDA Symfony project for Design Patterns
